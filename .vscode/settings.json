@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "FONTS/lib/json-20231013.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
